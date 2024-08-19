@@ -1,0 +1,16 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    width: 200px;
+    padding: 10px;
+    background-color: #f5f5f5;
+}
+
+#app {
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    color: #333;
+}
